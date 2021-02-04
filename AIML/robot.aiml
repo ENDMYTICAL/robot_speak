@@ -1,0 +1,23 @@
+<aiml version="0.9.1" encoding="UTF-8">
+
+    <category>
+        <pattern>室内环境如何</pattern>
+        <template>
+            请稍等+000
+        </template>
+    </category>
+
+    <category>
+        <pattern>聊天</pattern>
+        <template>
+            请稍等+111
+        </template>
+    </category>
+    <category>
+        <pattern>退出</pattern>
+        <template>
+            请稍等+222
+        </template>
+    </category>
+
+</aiml>
